@@ -39,6 +39,11 @@ Space jam
 -El gran Gatsby
 
 
+-Titanic
+-Dumbo
+-El diario de Noa
+
+
 Ciudadano Kane
 Pulp Fiction
 El acorazado Potemkin
@@ -46,5 +51,6 @@ El acorazado Potemkin
 La niebla
 Soy leyenda
 El lobo de wall street
+
 
 
