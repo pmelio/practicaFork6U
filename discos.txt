@@ -1,2 +1,1 @@
--e "Rolling Stone \ Michael Jackson \ Dolly Parton " 
 -e "Michael Jackson \ Dolly Parton \ Elvis Presley " 
