@@ -1,2 +1,12 @@
-# practicaFork6U
+
 Adrián Bausach Cruz.
+=======
+
+IsmaelNV 
+
+Moreno Vistos Roberto
+
+Nuria Durán Pau
+
+
+
