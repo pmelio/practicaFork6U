@@ -1,2 +1,3 @@
-# practicaFork6U
 Moreno Vistos Roberto
+Nuria Durán Pau
+
