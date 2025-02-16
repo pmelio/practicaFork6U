@@ -1,1 +1,8 @@
-# practicaFork6UIsmaelNV 
+
+IsmaelNV 
+
+Moreno Vistos Roberto
+
+Nuria Durán Pau
+
+
