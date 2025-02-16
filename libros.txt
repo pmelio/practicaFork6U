@@ -42,3 +42,6 @@ Libro 3
 
 
 
+"1.Cien a¤os de soledad-Gabriel Garc¡a M rquez"
+"2.1984-George Orwell"
+"3.Harry Potter y la piedra filosofal-JK Rowling"
