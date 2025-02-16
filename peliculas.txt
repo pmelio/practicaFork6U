@@ -1,4 +1,9 @@
 
+-Dune
+-La guerra de las Galaxias
+-Blade Runner
+=======
+
 Origen
 Interestellar 
 Seven
@@ -16,6 +21,7 @@ El secreto de sus ojos
 Peli 1
 Peli 2
 Peli 3
+
 
 
 
