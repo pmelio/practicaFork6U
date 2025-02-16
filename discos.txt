@@ -1,4 +1,9 @@
 
+Lemonade(2016) Beyoncé
+Back to Black(2006) Amy Winehouse
+Blonde(2016) Frank Ocean
+=======
+
 -e "Michael Jackson \ Dolly Parton \ Elvis Presley " 
 =======
 
@@ -24,6 +29,7 @@ El nombre del viento
 Disco 1
 Disco 2
 Disco 3
+
 
 
 
