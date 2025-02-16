@@ -1,4 +1,7 @@
 
+-e "Los Juegos del hambre\Homo Deux\ El antropologo inocente" 
+=======
+
 -Fundación
 -Fundacion y Tierra
 -Segunda Fundación

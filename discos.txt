@@ -1,4 +1,7 @@
 
+-e "Michael Jackson \ Dolly Parton \ Elvis Presley " 
+=======
+
 - Once Upon a Time - Simpleminds
 - A Kind of Magic - Queen
 - A Secret Wish - Propaganda
@@ -21,6 +24,7 @@ El nombre del viento
 Disco 1
 Disco 2
 Disco 3
+
 
 
 
