@@ -40,5 +40,6 @@ Libro 1
 Libro 2
 Libro 3
 
-
-
+El poder del perro
+El cartel
+La frontera
