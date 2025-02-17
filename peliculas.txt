@@ -40,5 +40,6 @@ Peli 1
 Peli 2
 Peli 3
 
-
-
+Django
+Malditos Bastardos
+Pulp Fiction
