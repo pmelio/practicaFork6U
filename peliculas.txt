@@ -1,7 +1,7 @@
 
 Mad Max. Salvajes de autopista
 Mad Max 2. El guerrero de la carretera
-Mad Max 3. Más allá de la cúpula del trueno
+Mad Max 3. MÃ¡s allÃ¡ de la cÃºpula del trueno
 =======
 
 1. "El Padrino" - Francis Ford Coppola
@@ -41,7 +41,13 @@ Peli 2
 Peli 3
 
 
+Django
+Malditos Bastardos
+Pulp Fiction
+=======
+
 
 "1.El Padrino" 
 "2.Pulp Fiction" 
-"3.El Se�or de los Anillos" 
+"3.El Se¤or de los Anillos" 
+

@@ -4,8 +4,8 @@ Los juegos del hambre 2
 Los juegos del hambre 3
 =======
 
-1. "Cien años de soledad" - Gabriel García Márquez
-2. "El señor de los anillos" - J.R.R. Tolkien
+1. "Cien aÃ±os de soledad" - Gabriel GarcÃ­a MÃ¡rquez
+2. "El seÃ±or de los anillos" - J.R.R. Tolkien
 3. "1984" - George Orwell
 =======
 
@@ -17,18 +17,18 @@ Habitos Atomicos
 -e "Los Juegos del hambre\Homo Deux\ El antropologo inocente" 
 =======
 
--Fundación
+-FundaciÃ³n
 -Fundacion y Tierra
--Segunda Fundación
+-Segunda FundaciÃ³n
 =======
 
 Los Pilares de la Tierra
-El Príncipe de la Niebla
+El PrÃ­ncipe de la Niebla
 Siega
 =======
 
 "1. 'El Quijote'" 
-"2. 'El se�or de los anillos'" 
+"2. 'El seï¿½or de los anillos'" 
 "3. '1984'" 
 =======
 
@@ -40,8 +40,13 @@ Libro 1
 Libro 2
 Libro 3
 
+El poder del perro
+El cartel
+La frontera
+=======
 
 
-"1.Cien a�os de soledad-Gabriel Garc�a M�rquez"
+"1.Cien a¤os de soledad-Gabriel Garc¡a M rquez"
 "2.1984-George Orwell"
 "3.Harry Potter y la piedra filosofal-JK Rowling"
+
