@@ -44,7 +44,13 @@ Peli 3
 "Inception" (2010) de Christopher Nolan
 "Amélie" (2001) de Jean-Pierre Jeunet
 
+------
+El señor de los anillos 1
+El señor de los anillos 2
+El señor de los anillos 3
 
+
+=======
 Django
 Malditos Bastardos
 Pulp Fiction
@@ -54,6 +60,7 @@ Pulp Fiction
 "1.El Padrino" 
 "2.Pulp Fiction" 
 "3.El Se¤or de los Anillos" 
+
 
 ==========
 Peliculas_Toni
