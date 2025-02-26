@@ -44,7 +44,12 @@ Libro 1
 Libro 2
 Libro 3
 
+-------
 
+Hoyos
+El principito
+Manolito Gafotas
+=======
 ======
 Cien años de soledad 
 La sombra del viento 
@@ -64,3 +69,5 @@ Libro_Toni
 Libro_Bahilo
 Libro_Gomez
 
+
+------------
