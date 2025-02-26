@@ -1,7 +1,7 @@
 
 Mad Max. Salvajes de autopista
 Mad Max 2. El guerrero de la carretera
-Mad Max 3. Más allá de la cúpula del trueno
+Mad Max 3. MÃ¡s allÃ¡ de la cÃºpula del trueno
 =======
 
 1. "El Padrino" - Francis Ford Coppola
@@ -39,8 +39,21 @@ El secreto de sus ojos
 Peli 1
 Peli 2
 Peli 3
+======
+"El Padrino" (1972) de Francis Ford Coppola
+"Inception" (2010) de Christopher Nolan
+"Amélie" (2001) de Jean-Pierre Jeunet
 
 
+Django
+Malditos Bastardos
+Pulp Fiction
+=======
+
+
+"1.El Padrino" 
+"2.Pulp Fiction" 
+"3.El Se¤or de los Anillos" 
 
 ==========
 Peliculas_Toni

@@ -40,12 +40,22 @@ Disco 1
 Disco 2
 Disco 3
 
+=======
+Abbey Road de The Beatles
+Lemonade de Beyoncé
+Random Access Memories de Daft Punk
+=======
 
-
-
-
+The Sickness
+Attention Attention
+The Bleeding
 
 ==========
 disco_Toni
 disco_Bahilo
 disco_Gomez
+=======
+"1.Abbey Road" 
+"3.Thriller" 
+"3.Back To Black" 
+
