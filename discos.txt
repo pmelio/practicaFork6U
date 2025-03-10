@@ -90,3 +90,6 @@ disco_Gomez
 "3.Thriller" 
 "3.Back To Black" 
 
+"Disco 1" 
+"Disco 2" 
+"Disco 3" 
